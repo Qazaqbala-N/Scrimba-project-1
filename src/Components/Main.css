@@ -1,0 +1,39 @@
+body{
+    background-color: #282D35;
+}
+main{
+    padding:55px 27px;
+    background-image: url(https://icons-for-free.com/download-icon-react-1324440221750810766_512.png);
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y:55%;
+    background-size: 300px;
+}
+
+.main--title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39.06px;
+    line-height: 47px;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+
+}
+ul{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: left;
+color: #FFFFFF;
+}
+
+ul>li{
+    padding-block: 10px;
+}
+ul>li::marker{
+    font-size: 1.4em;
+    color: #61DAFB;
+}
